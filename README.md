@@ -25,3 +25,4 @@ python train.py
 ### Test
 ```
 python dehaze.py
+```
